@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Practice</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    //for xml file
+    <string name="topping">टॉपिंग</string>
+    <string name="orderSummary">ऑर्डर सारांश</string>
+    <string name="price">$0</string>
+    <string name="editname">नाम</string>
+    <string name="chatni">चटनी</string>
+    <string name="shew">शेव</string>
+    <string name="dahi">दही</string>
+    <string name="quantity">मात्रा</string>
+
+    //for java file
+    <string name="name">नाम :  <xliff:g id="name" example="any"> %s </xliff:g>  </string>
+    <string name="chatni_checked">चटनी ऑर्डर किये?  <xliff:g id="chatni" example="yes"> %b </xliff:g>  </string>
+    <string name="shew_checked">शेव ऑर्डर किये?  <xliff:g id="shew" example="yes"> %b </xliff:g>  </string>
+    <string name="dhani_checked">दही ऑर्डर किये?  <xliff:g id="dhani" example="yes"> %b </xliff:g>  </string>
+    <string name="samosa_quantity"> कुल समोसा:  <xliff:g id="quantity" example="10"> %d </xliff:g>  </string>
+    <string name="kachori_quantity">कुल कचौरी:  <xliff:g id="kquantity" example="12"> %d </xliff:g>  </string>
+    <string name="total_price">कुल कीमत: $  <xliff:g id="totalprice" example="$50"> %s </xliff:g>  </string>
+    <string name="thank_you"> धन्यवाद !</string>
+</resources>
